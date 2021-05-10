@@ -1,7 +1,7 @@
 ---
-title: ACS-ED 2013-2017 Children-Enrolled Public Demographic Characteristics (CDP05)
-created: '2021-01-05T22:18:59.027701'
-modified: '2021-01-05T22:18:59.027708'
+title: ACS-ED 2013-2017 Children-Enrolled Public Housing Characteristics (CDP04)
+created: '2021-01-05T22:18:58.827198'
+modified: '2021-01-05T22:18:58.827205'
 state: active
 type: dataset
 tags:
@@ -11,14 +11,14 @@ tags:
   - Department Of Education
   - Edge
   - Education Demographic And Geographic Estimates Program
+  - Housing
   - Ies
   - National Center For Education Statistics
   - Nces
   - School Districts
-  - U S Census Bureau
 groups: []
 csv_url: >-
-  https://data-nces.opendata.arcgis.com/datasets/d0d50214646e4a01bfb1422ca970f555_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  https://data-nces.opendata.arcgis.com/datasets/e9c229d3e179488b9f7dbe8121af61b8_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 json_url: ''
 layout: post
 

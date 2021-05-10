@@ -1,7 +1,7 @@
 ---
-title: ACS-ED 2013-2017 Total Children Housing Characteristics (CDP04)
-created: '2021-01-05T22:18:58.383919'
-modified: '2021-01-05T22:18:58.383929'
+title: ACS-ED 2013-2017 Total Children Social Characteristics (CDP02)
+created: '2021-01-05T22:19:00.237413'
+modified: '2021-01-05T22:19:00.237420'
 state: active
 type: dataset
 tags:
@@ -10,16 +10,14 @@ tags:
   - American Community Survey
   - Department Of Education
   - Edge
-  - Education Demographic And Geographic Estimates Program
-  - Housing
+  - Education Demographic Geographic Estimates
   - Ies
   - National Center For Education Statistics
   - Nces
-  - School Districts
   - U S Census Bureau
 groups: []
 csv_url: >-
-  https://data-nces.opendata.arcgis.com/datasets/6b1d1d2c365f44609b0263fb6fa0aa6b_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  https://data-nces.opendata.arcgis.com/datasets/b8426f129e21408eaaa86fd8ee810773_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 json_url: ''
 layout: post
 

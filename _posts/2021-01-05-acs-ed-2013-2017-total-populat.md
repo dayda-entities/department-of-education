@@ -1,15 +1,15 @@
 ---
-title: ACS-ED 2013-2017 Total Population Economic Characteristics (DP03)
-created: '2021-01-05T22:18:58.168476'
-modified: '2021-01-05T22:18:58.168483'
+title: ACS-ED 2013-2017 Total Population Demographic Characteristics (DP05)
+created: '2021-01-05T22:18:56.192123'
+modified: '2021-01-05T22:18:56.192129'
 state: active
 type: dataset
 tags:
   - Acs
   - Acs Ed
   - American Community Survey
+  - Demographics
   - Department Of Education
-  - Economic
   - Edge
   - Education Demographic And Geographic Estimates Program
   - Ies
@@ -19,7 +19,7 @@ tags:
   - U S Census Bureau
 groups: []
 csv_url: >-
-  https://data-nces.opendata.arcgis.com/datasets/0f07b07f933145a49d94d4944adbcbd1_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  https://data-nces.opendata.arcgis.com/datasets/272d57f51fdd4bc8b4d512b67f9cad91_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 json_url: ''
 layout: post
 

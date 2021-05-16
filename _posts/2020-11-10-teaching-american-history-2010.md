@@ -1,17 +1,18 @@
 ---
-title: Teaching American History 2010 Grantees
-created: '2020-11-10T16:22:49.418633'
-modified: '2020-11-10T16:22:49.418643'
+title: Teaching American History 2010 Applicants
+created: '2020-11-10T16:22:49.805861'
+modified: '2020-11-10T16:22:49.805868'
 state: active
 type: dataset
 tags:
   - American
-  - Grantees
+  - Applicants
   - History
   - Interactive
+  - Teaching
 groups: []
 csv_url: >-
-  https://inventory.data.gov/dataset/da765763-7b50-4dd2-9772-c92e0fed8e1a/resource/411d25bd-ac44-4d90-99a0-c65670628afd/download/userssharedsdfteachingamericanhistory2010grantees.csv
+  https://inventory.data.gov/dataset/9b8df339-a659-4f7a-b6f0-de8e17964f68/resource/583cf78f-2508-4d21-a55d-3e3cb1dfff16/download/userssharedsdfteachingamericanhistory2010applicants.csv
 json_url: ''
 layout: post
 

@@ -1,24 +1,24 @@
 ---
-title: ACS-ED 2013-2017 Total Population Social Characteristics (DP02)
-created: '2021-05-01T06:58:40.913609'
-modified: '2021-05-01T06:58:40.913620'
+title: ACS-ED 2013-2017 Total Population Demographic Characteristics (DP05)
+created: '2021-05-01T06:58:39.113314'
+modified: '2021-05-01T06:58:39.113321'
 state: active
 type: dataset
 tags:
   - Acs
   - Acs Ed
   - American Community Survey
+  - Demographic
   - Department Of Education
   - Edge
-  - Education Demographic Geographic Estimates
+  - Education Demographic And Geographic Estimates Program
   - National Center For Education Statistics
   - Nces
-  - School District
-  - Social
+  - School Districts
   - U S Census Bureau
 groups: []
 csv_url: >-
-  https://data-nces.opendata.arcgis.com/datasets/cab3accd8ca541f68f988b3fe3278e7c_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  https://data-nces.opendata.arcgis.com/datasets/a8c1a92f266f43508d1cd36568c199e9_11.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 json_url: ''
 layout: post
 
